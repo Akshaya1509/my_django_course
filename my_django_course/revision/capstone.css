@@ -1,0 +1,36 @@
+body{
+  text-align: center;
+  background: #2D3047;
+  color: white;
+  font-family: 'Baloo Chettan', cursive;
+  border: black 40px solid;
+  margin:0px;
+  border-top:0px;
+}
+#fname{
+  width:200px;
+}
+
+#lname{
+  width:200px;
+}
+#email{
+  width:200px;
+}
+#signup{
+  border-radius: 10px;
+  background-color: orange;
+  height:50px;
+  width:100px;
+  margin-bottom: 30px;
+}
+p{
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 5%;
+}
+form{
+  font-size: 1.5em;
+  margin-bottom: :50px;
+  /* padding-left:100px; */
+}

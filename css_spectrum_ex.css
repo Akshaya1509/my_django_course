@@ -1,0 +1,34 @@
+h1{
+  font-family: 'Gamja Flower', cursive;
+  text-align: center;
+}
+
+.art{
+  margin:auto;
+}
+
+td{
+  height:200px;
+  border : 6px solid white;
+  padding:100px;
+}
+
+#one{
+    background-color: #FFAAEA;
+}
+
+#two{
+  background-color: #D84797;
+}
+
+#three{
+  background-color: #DB3069;
+}
+
+#four{
+  background-color: #CA2E55;
+}
+
+#five{
+  background-color: #820933;
+}

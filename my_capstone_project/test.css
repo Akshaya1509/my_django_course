@@ -1,0 +1,12 @@
+body{
+  background-color: pink;
+  border:50px solid black;
+  text-align: center;
+  margin:50px 20px 50px;
+}
+
+p{
+  padding:10% 20%;
+  /* padding-top: 0%; */
+  /* padding-left: 35px; */
+}

@@ -1,0 +1,28 @@
+h2{
+  font-family: 'Modern Antiqua', cursive;
+  text-align: center;
+}
+table{
+  margin:auto;
+}
+td{
+  height: 200px;
+  /* padding:100px; */
+  border:10px solid white;
+  padding:100px;
+}
+#one{
+  background-color:#141D30;
+}
+#two{
+  background-color: #0F74AA;
+}
+#three{
+  background-color: #53AAC3;
+}
+#four{
+  background-color: #E7C118;
+}
+#five{
+  background-color:#FFE7C3;
+}
